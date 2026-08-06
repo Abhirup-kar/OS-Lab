@@ -1,0 +1,4 @@
+The system is searching for a word.
+Keywords: word, words, standard.
+This line has no match.
+wordword is a repeated word pattern.
